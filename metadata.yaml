@@ -1,5 +1,5 @@
 _repo: The-Case-of-Wagner-Complete-Works-Volume-8_52166
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Ludovici, Anthony M. (Anthony Mario)
@@ -15,6 +15,9 @@ contributor:
     alias: Kennedy, John McFarland
     gutenberg_agent_id: '7863'
     url: http://www.gutenberg.org/2009/agents/7863
+covers:
+- cover_type: archival
+  image_path: 52166-h/images/cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52166#The-Case-of-Wagner-Complete-Works-Volume-8
 gutenberg_issued: '2016-05-27'
 gutenberg_type: Text
 identifiers:
